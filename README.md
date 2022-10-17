@@ -1,2 +1,3 @@
-# ChatBot_NLP_Simple
-Making a simple Chatbot
+# ChatBot_AI_Simple 
+Made a simple Chatbot for College project 
+
