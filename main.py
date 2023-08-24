@@ -1,5 +1,5 @@
-# Author: Preet Desai/Somil Doshi and Ronak Dhakad ###
-# College Project -PBL_ITA ###
+# Author: Preet Desai
+# College Project ###
 
 import random
 import json
